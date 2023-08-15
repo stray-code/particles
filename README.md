@@ -1,3 +1,7 @@
-# particles
+# 幾何学模様のアニメーション
 
-demo https://heuristic-rosalind-4e031a.netlify.com/
+javascriptで幾何学模様を再現
+
+demo
+
+https://heuristic-rosalind-4e031a.netlify.com/
